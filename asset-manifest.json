@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2887e554.css",
+    "main.js": "/static/js/main.85910828.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/RussoOne-Regular.ttf": "/static/media/RussoOne-Regular.b2f5b287ccb8fd446eae.ttf",
+    "index.html": "/index.html",
+    "main.2887e554.css.map": "/static/css/main.2887e554.css.map",
+    "main.85910828.js.map": "/static/js/main.85910828.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2887e554.css",
+    "static/js/main.85910828.js"
+  ]
+}
